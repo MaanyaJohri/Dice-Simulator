@@ -1,7 +1,3 @@
-
-
-# A simple dice (die? dice?) rolling tool made to gain experience with pygame!
-
 import random
 import pygame
 #globals
